@@ -1,4 +1,4 @@
-# Fondamentaux du Traitement d'Images — Redimensionnement, Filtres de Convolution, Morphologie et Transformée de Fourier
+# Fondamentaux du Traitement d'Images : Redimensionnement, Filtres de Convolution, Morphologie et Transformée de Fourier
 
 Ce projet explore les bases du traitement d'images avec OpenCV. Chaque script traite un sujet précis et peut être exécuté indépendamment.
 
